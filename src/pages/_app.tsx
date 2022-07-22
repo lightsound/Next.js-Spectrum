@@ -1,4 +1,4 @@
-import "src/style/reset.css";
+import "src/style/index.css";
 import type { AppProps } from "next/app";
 import { defaultTheme, Provider, SSRProvider } from "@adobe/react-spectrum";
 
