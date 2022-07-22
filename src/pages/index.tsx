@@ -3,7 +3,7 @@ import type { NextPage } from "next";
 
 const Home: NextPage = () => {
   return (
-    <div className="p-8">
+    <div>
       <Button variant="cta" onPress={() => alert("Hey there!")}>
         Hello React Spectrum!
       </Button>
